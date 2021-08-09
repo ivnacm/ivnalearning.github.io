@@ -1,0 +1,13 @@
+#container {
+    border: 1px solid black;
+    border-radius: 5px;
+    cursor: pointer;
+    width: 300px;
+}
+.headline {
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+}
+body {
+    background-image: url(https://i.pinimg.com/originals/1d/4b/36/1d4b36ed161c892f7556dd8bc8424231.jpg);
+}
