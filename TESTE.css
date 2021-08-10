@@ -15,3 +15,7 @@ body {
     align-items: center;
     background-image: url(https://i.pinimg.com/originals/a2/31/db/a231db007c8c852ea469f013df93dfef.jpg);
 }
+a {
+    text-decoration: none;
+    color: black;
+}
